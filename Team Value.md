@@ -1,6 +1,6 @@
 ##List of Team Value
-[]Charlie 
-#Minh
+.Charlie 
+.Minh
 #Nam
 #Penn
 #Sangita
