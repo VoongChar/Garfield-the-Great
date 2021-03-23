@@ -1,5 +1,5 @@
 ##List of Team Value
-#Charlie 
+[]Charlie 
 #Minh
 #Nam
 #Penn
