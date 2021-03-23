@@ -1,7 +1,8 @@
 List of Team Value
-Charlie Minh
-Nam
-Penn
-Sangita
-Arvin 
-Helen
+[]Charlie 
+[]Minh
+[]Nam
+[]Penn
+[]Sangita
+[]Arvin 
+[]Helen
